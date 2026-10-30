@@ -110,10 +110,35 @@
 
 ## 調整文字大小
 
-繁中版會把介面字型統一設為 **25**（原版大多是 40，字偏大又不一致）。覺得太大或太小，可以自己改：
+繁中版會把介面字型統一設為 **25**（原版大多是 40，字偏大又不一致）。覺得太大或太小，可以自己改。
 
-1. 打開資料夾 `遊戲安裝資料夾\Engine\Locale\Chinese\data\font\`。
-2. 用「記事本」打開其中一個 `.fnt` 檔，會看到像這樣的內容：
+### 字型檔在哪裡？
+
+字型設定檔放在遊戲安裝資料夾裡的：
+
+```
+Engine\Locale\Chinese\data\font\
+```
+
+**找到遊戲安裝資料夾的方法：**
+
+1. 打開 Steam，進入「收藏庫」。
+2. 在《Warhammer 40,000: Dawn of War – Definitive Edition》上按滑鼠右鍵 →「管理」→「瀏覽本機檔案」。
+3. 會打開遊戲安裝資料夾，再依序點進 `Engine` → `Locale` → `Chinese` → `data` → `font`。
+
+Steam 預設安裝位置的完整路徑是：
+
+```
+C:\Program Files (x86)\Steam\steamapps\common\Dawn of War Definitive Edition\Engine\Locale\Chinese\data\font\
+```
+
+> [!NOTE]
+> 如果遊戲裝在其他硬碟（例如 `D:\SteamLibrary\`），路徑開頭會不一樣，用上面「瀏覽本機檔案」的方法最準確。
+
+### 用記事本修改
+
+1. 打開上面的 `font` 資料夾，裡面有 13 個 `.fnt` 檔。
+2. 對其中一個 `.fnt` 檔按右鍵 →「開啟檔案」→ 選「記事本」，會看到像這樣的內容：
 
    ```
    sizeDefault  = 25;
@@ -134,11 +159,15 @@
 
 <br/>
 
-在 `font` 資料夾空白處按住 <kbd>Shift</kbd> + 滑鼠右鍵 →「在這裡開啟 PowerShell 視窗」，貼上下面這行，把開頭的 `25` 換成你要的數字後按 <kbd>Enter</kbd>：
+1. 先照上面的方法打開 `font` 資料夾。
+2. 點一下檔案總管上方的**網址列**，輸入 `powershell` 後按 <kbd>Enter</kbd>，會在這個資料夾開啟 PowerShell 視窗。
+3. 貼上下面這行，把開頭的 `25` 換成你要的數字，按 <kbd>Enter</kbd> 執行：
 
-```powershell
-$n = 25; Get-ChildItem *.fnt | ForEach-Object { (Get-Content $_.FullName -Raw) -replace '(size\w+\s*=\s*)\d+', "`${1}$n" | Set-Content $_.FullName -NoNewline -Encoding ascii }
-```
+   ```powershell
+   $n = 25; Get-ChildItem *.fnt | ForEach-Object { (Get-Content $_.FullName -Raw) -replace '(size\w+\s*=\s*)\d+', "`${1}$n" | Set-Content $_.FullName -NoNewline -Encoding ascii }
+   ```
+
+4. 沒有出現紅字就是改好了，重新啟動遊戲即可。
 
 </details>
 
