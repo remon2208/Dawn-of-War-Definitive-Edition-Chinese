@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://store.steampowered.com/app/3556750/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/407acf5d4854463d73d969b2ec29ff37cc6aa705/capsule_616x353.jpg" alt="Warhammer 40,000: Dawn of War – Definitive Edition" width="616"/></a>
+
 # 戰鎚40K：破曉之戰 決定版<br/>中文翻譯修正
 
 **Warhammer 40,000: Dawn of War – Definitive Edition｜非官方繁體／簡體中文翻譯修正**
@@ -16,7 +18,7 @@
 &nbsp;
 [![下载简体中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88-b8860b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/DoW-DE-Chinese-Fix-zh-CN.zip)
 
-[修正前後對照](#修正前後對照) · [安裝](#安裝) · [譯名對照表](GLOSSARY.md) · [简体中文说明](#简体中文说明) · [回報問題](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues)
+[修正前後對照](#修正前後對照) · [安裝](#安裝) · [調整文字大小](#調整文字大小) · [譯名對照表](GLOSSARY.md) · [简体中文说明](#简体中文说明) · [回報問題](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues)
 
 </div>
 
@@ -68,11 +70,21 @@
 | 🔤 | 補翻原本仍是英文的字串（語音、音效說明、任務對話） | 約 1,000 句 |
 | 🏷️ | 單位、建築、武器名稱改用社群通用譯名 | 3,000+ 處 |
 | 🐛 | 修正會讓遊戲顯示錯誤的變數格式、缺漏與截斷的字串 | 30+ 處 |
+| 🔠 | 繁中介面字型大小統一（預設 25，可自行調整） | 13 個字型 |
 | 🧩 | 簡中版補齊官方簡中缺少的字串 | 約 4,200 條 |
 
 - 歐克和歐格林的台詞刻意翻得粗獷口語，帝國與鈦星人則保留軍事口吻。
 - **Waaagh!** 保留原文，不再翻成「吼～」。
 - 繁中保留台灣用字（雷射、電漿、砲）；簡中改用大陸慣用詞（激光、等离子、导弹、帝国卫队、太空死灵）。
+
+## 遊戲畫面
+
+<table>
+<tr><td width="50%"><a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/cb35ee95e7cea92fe71d807a8ec3e673f0fc9d98/ss_cb35ee95e7cea92fe71d807a8ec3e673f0fc9d98.1920x1080.jpg"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/cb35ee95e7cea92fe71d807a8ec3e673f0fc9d98/ss_cb35ee95e7cea92fe71d807a8ec3e673f0fc9d98.600x338.jpg" alt="遊戲畫面"/></a></td><td width="50%"><a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/3ac2b4d2425fd88cafa36c7a0af02a4f0e2b60c4/ss_3ac2b4d2425fd88cafa36c7a0af02a4f0e2b60c4.1920x1080.jpg"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/3ac2b4d2425fd88cafa36c7a0af02a4f0e2b60c4/ss_3ac2b4d2425fd88cafa36c7a0af02a4f0e2b60c4.600x338.jpg" alt="遊戲畫面"/></a></td></tr>
+<tr><td width="50%"><a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/926a0b831ceb5926b835cfd942ec3c943ab0fb83/ss_926a0b831ceb5926b835cfd942ec3c943ab0fb83.1920x1080.jpg"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/926a0b831ceb5926b835cfd942ec3c943ab0fb83/ss_926a0b831ceb5926b835cfd942ec3c943ab0fb83.600x338.jpg" alt="遊戲畫面"/></a></td><td width="50%"><a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/8cd740c9981bff074e698a988ca9ca4ce8f422c2/ss_8cd740c9981bff074e698a988ca9ca4ce8f422c2.1920x1080.jpg"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/8cd740c9981bff074e698a988ca9ca4ce8f422c2/ss_8cd740c9981bff074e698a988ca9ca4ce8f422c2.600x338.jpg" alt="遊戲畫面"/></a></td></tr>
+</table>
+
+<p align="center"><sub>圖片來源：<a href="https://store.steampowered.com/app/3556750/">Steam 商店頁面</a>，點圖可看大圖</sub></p>
 
 ## 安裝
 
@@ -86,19 +98,8 @@
 
 | 版本 | 下載檔案 | 會覆蓋的檔案 | 遊戲語言 |
 |:--|:--|:--|:--|
-| 繁體中文 | `DoW-DE-Chinese-Fix-zh-TW.zip` | `Engine\Locale\Chinese\Engine.ucs` | 繁體中文 |
+| 繁體中文 | `DoW-DE-Chinese-Fix-zh-TW.zip` | `Engine\Locale\Chinese\Engine.ucs`<br/>`Engine\Locale\Chinese\data\font\*.fnt`（13 個字型設定） | 繁體中文 |
 | 簡體中文 | `DoW-DE-Chinese-Fix-zh-CN.zip` | `Engine\Locale\SChinese\Engine.ucs` | 简体中文 |
-
-<details>
-<summary><b>可選：放大繁體中文字型</b></summary>
-
-<br/>
-
-[![可選 繁中字型放大](https://img.shields.io/badge/%E5%8F%AF%E9%81%B8-%E7%B9%81%E4%B8%AD%E5%AD%97%E5%9E%8B%E6%94%BE%E5%A4%A7-555555?style=for-the-badge)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/Optional-zh-TW-font-size-26.zip)
-
-把繁體中文介面的字型大小統一設為 26，適合高解析度螢幕。只適用繁體中文，安裝方式相同：解壓縮到遊戲安裝資料夾並覆蓋（請先備份 `Engine\Locale\Chinese\data\font` 裡的 `.fnt` 檔）。
-
-</details>
 
 ### 還原
 
@@ -106,6 +107,40 @@
 
 > [!NOTE]
 > 遊戲更新或驗證檔案完整性時，可能會把檔案換回原版翻譯，屆時重新覆蓋一次即可。本修正只改文字檔，不影響存檔與連線對戰。
+
+## 調整文字大小
+
+繁中版會把介面字型統一設為 **25**（原版大多是 40，字偏大又不一致）。覺得太大或太小，可以自己改：
+
+1. 打開資料夾 `遊戲安裝資料夾\Engine\Locale\Chinese\data\font\`。
+2. 用「記事本」打開其中一個 `.fnt` 檔，會看到像這樣的內容：
+
+   ```
+   sizeDefault  = 25;
+   size640      = 25;
+   size800      = 25;
+   ...
+   size3840     = 25;
+   ```
+
+3. 把 `sizeDefault` 和 `size640`～`size3840` 這 10 行的數字都改成你要的大小，存檔。
+4. 13 個 `.fnt` 檔都照做，然後重新啟動遊戲。
+
+> [!TIP]
+> 數字越大字越大，一般建議 **22～30**。螢幕解析度高（2K、4K）可以調大一點，筆電小螢幕可以調小一點。
+
+<details>
+<summary><b>進階：用 PowerShell 一次改完 13 個檔案</b></summary>
+
+<br/>
+
+在 `font` 資料夾空白處按住 <kbd>Shift</kbd> + 滑鼠右鍵 →「在這裡開啟 PowerShell 視窗」，貼上下面這行，把開頭的 `25` 換成你要的數字後按 <kbd>Enter</kbd>：
+
+```powershell
+$n = 25; Get-ChildItem *.fnt | ForEach-Object { (Get-Content $_.FullName -Raw) -replace '(size\w+\s*=\s*)\d+', "`${1}$n" | Set-Content $_.FullName -NoNewline -Encoding ascii }
+```
+
+</details>
 
 ## 譯名依據
 
