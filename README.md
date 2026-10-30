@@ -1,69 +1,150 @@
-# 戰鎚40K：破曉之戰 決定版 — 中文翻譯修正（繁體／簡體）
+<div align="center">
 
-非官方的中文翻譯修正檔，適用於 **Warhammer 40,000: Dawn of War – Definitive Edition**。
-修正原版繁體中文的錯譯、機器翻譯與漏翻，譯名統一採用中文玩家社群慣用的叫法，讓遊玩時更有沉浸感。另附依同一份譯文製作的簡體中文版。
+# 戰鎚40K：破曉之戰 決定版<br/>中文翻譯修正
 
-> 简体中文说明请见下方 [简体中文](#简体中文)。
+**Warhammer 40,000: Dawn of War – Definitive Edition｜非官方繁體／簡體中文翻譯修正**
 
-## 修正了什麼
+[![最新版本](https://img.shields.io/github/v/release/remon2208/DoW-DE-Chinese-Fix?style=flat-square&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=8b0000)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest)
+[![下載次數](https://img.shields.io/github/downloads/remon2208/DoW-DE-Chinese-Fix/total?style=flat-square&label=%E4%B8%8B%E8%BC%89%E6%AC%A1%E6%95%B8&color=444)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases)
+![Dawn of War](https://img.shields.io/badge/Dawn%20of%20War-Definitive%20Edition-2b2b2b?style=flat-square)
+![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E2%9C%94-1f6feb?style=flat-square)
+![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E2%9C%94-d73a49?style=flat-square)
 
-- **單位名稱改用通用譯名**：例如 終極戰士→終結者、神靈族→靈族、歐克蠻人→歐克、猿人→歐格林、小鬼頭→屁精、烈焰戰士→火戰士、巫妖→巫靈。完整對照見 [GLOSSARY.md](GLOSSARY.md)。
-- **重譯約 1,560 句機器翻譯的語音字幕**：原版帝國防衛軍、鈦星人、歐克等單位的語音字幕是機器翻譯（例如「經常大聲說yah的雅皮士」「我用皇帝的拳頭罷工」），已全部依英文原文重新翻譯，並依各陣營的語氣調整（歐克說話比較粗）。
-- **補翻約 1,000 句原本是英文的字串**：單位回應語音、音效說明、任務對話等。
-- **修正錯譯**：例如「憤怒衝鋒」被翻成「猛烈的費用」、「寧死不屈」被翻成「屈辱致死」、逆戟鯨運輸機被翻成「歐克」、活聖人被標成「驅魔者裝甲車」等。
-- **修正會讓遊戲顯示錯誤的格式問題**：例如隊伍名稱、戰略據點、倒數分鐘數的變數寫錯，補上 3 條缺漏的字串，以及幾段只翻了一半的說明。
-- **Waaagh! 保留原文**，不再翻成「吼～」。
+修正原版中文的機器翻譯、錯譯與漏翻，<br/>譯名統一採用中文玩家社群的通用叫法，讓戰場重新有沉浸感。
 
-## 安裝
+[![下載繁體中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BC%89-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/DoW-DE-Chinese-Fix-zh-TW.zip)
+&nbsp;
+[![下载简体中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88-b8860b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/DoW-DE-Chinese-Fix-zh-CN.zip)
 
-1. 找到遊戲安裝資料夾，例如 `...\steamapps\common\Dawn of War Definitive Edition\`。
-2. **先備份**要被覆蓋的原檔（見下表）。
-3. 把對應語言資料夾裡的 `Engine` 資料夾複製到遊戲安裝資料夾，選擇覆蓋。
-4. 在遊戲設定中選擇對應的語言。
+[修正前後對照](#修正前後對照) · [安裝](#安裝) · [譯名對照表](GLOSSARY.md) · [简体中文说明](#简体中文说明) · [回報問題](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues)
 
-| 版本 | 複製來源 | 會覆蓋的檔案 | 遊戲語言 |
-|---|---|---|---|
-| 繁體中文 | `zh-TW/Engine` | `Engine\Locale\Chinese\Engine.ucs` | 繁體中文 |
-| 簡體中文 | `zh-CN/Engine` | `Engine\Locale\SChinese\Engine.ucs` | 简体中文 |
-
-### 可選：放大繁中字型
-
-`optional/font-size-26` 把繁體中文介面的字型大小統一設為 26。只適用繁體中文，不想要可以不裝。安裝方式相同：把裡面的 `Engine` 資料夾複製到遊戲安裝資料夾並覆蓋（請先備份 `Engine\Locale\Chinese\data\font` 裡的 `.fnt` 檔）。
-
-## 還原
-
-把備份的原檔放回去即可，或在 Steam 對遊戲執行「驗證遊戲檔案的完整性」。
-
-## 注意事項
-
-- 遊戲更新或驗證檔案完整性時，可能會把檔案換回原版翻譯，屆時重新覆蓋一次即可。
-- 本修正只改文字檔，不影響存檔與連線對戰；但其他玩家看到的仍是他們自己的語言檔。
-- 製作時以 2026 年 10 月的決定版檔案為基礎。若官方日後更新文字檔，新增的字串可能會是英文或原版翻譯。
-
-## 譯名依據
-
-譯名優先採用中文《破曉之戰》玩家社群的常用叫法，其次參考遊戲官方簡體中文版與黑圖書館（Black Library）小說中譯本，並保留繁體中文的台灣用字（例如雷射、電漿、砲）。簡體中文版則改用大陸慣用詞（激光、等離子、導彈、帝國衛隊、太空死靈等）。
-
-參考資料：
-- [《战锤40K：战争黎明之灵魂风暴》常用简称中英文对照表（游民星空）](https://www.gamersky.com/handbook/200903/136099_2.shtml)
-- [【补充信息】翻译对照（哔哩哔哩）](https://www.bilibili.com/opus/667379420388917255)
-
-## 回報問題
-
-遊玩時看到不順或翻錯的地方，歡迎開 Issue，請附上畫面截圖或當時的英文原文。
-
-## 免責聲明
-
-本專案為玩家自製的非官方翻譯修正，與 Games Workshop、Relic Entertainment 及發行商無關。遊戲文字內容的著作權屬原權利人所有，本修正僅供已擁有正版遊戲的玩家使用。
+</div>
 
 ---
 
-## 简体中文
+## 修正前後對照
 
-非官方的中文翻译修正，适用于 **Warhammer 40,000: Dawn of War – Definitive Edition**。修正原版繁体中文的错译、机翻与漏翻，并据此制作了简体中文版（补上原版简中缺少的约 4,200 条字串）。
+原版的語音字幕和不少名稱其實是機器翻譯，玩起來很出戲。以下都是遊戲裡實際出現的句子：
 
-**安装**：先备份 `Engine\Locale\SChinese\Engine.ucs`，再把 `zh-CN/Engine` 文件夹复制到游戏安装目录并覆盖，游戏语言选择简体中文。
+| 英文原文 | 原版中文 | 修正後 |
+|:--|:--|:--|
+| I strike with the Emperor's fist! | 我用皇帝的拳頭罷工﹗ | **以帝皇之拳出擊！** |
+| Can't ya get some Slugga Boyz to do that? | 經常大聲說yah的雅皮士不能得到一些斧兵小隊 做那嗎？ | **你不能叫斧頭小子去做嗎？** |
+| Sure fing boss | 肯定的fing頭家 | **沒問題老大** |
+| New location reached. | 新位置伸。 | **已抵達新位置。** |
+| Furious Charge | 猛烈的費用 | **憤怒衝鋒** |
+| Death before Dishonor | 屈辱致死 | **寧死不屈** |
+| Chaos Marines | 混亂海軍陸戰隊士兵 | **混沌星際戰士** |
+| Orca（鈦星人運輸機） | 歐克 | **逆戟鯨運輸機** |
+| Rangers do not miss | *（未翻譯）* | **遊俠從不失手** |
+
+<details>
+<summary><b>單位名稱改成通用譯名（點開看例子）</b></summary>
+
+<br/>
+
+| 英文 | 原版 | 修正後 |
+|:--|:--|:--|
+| Terminator | 終極戰士 | **終結者** |
+| Land Raider | 掠奪者坦克 | **蘭德掠襲者** |
+| Servitor | 機器奴工 | **機僕** |
+| Gretchin | 小鬼頭 | **屁精** |
+| Ogryn | 猿人 | **歐格林** |
+| Eldar | 神靈族 | **靈族** |
+| Orks | 歐克蠻人 | **歐克** |
+| Fire Warrior | 烈焰戰士 | **火戰士** |
+| Wych | 巫妖 | **巫靈** |
+| Haemonculus | 赫蒙丘魯斯 | **血伶人** |
+
+完整的英／繁／簡對照請看 **[GLOSSARY.md](GLOSSARY.md)**。
+
+</details>
+
+## 這一版做了什麼
+
+| | 項目 | 數量 |
+|:--:|:--|--:|
+| 🎙️ | 重譯機器翻譯的單位語音字幕 | 約 1,560 句 |
+| 🔤 | 補翻原本仍是英文的字串（語音、音效說明、任務對話） | 約 1,000 句 |
+| 🏷️ | 單位、建築、武器名稱改用社群通用譯名 | 3,000+ 處 |
+| 🐛 | 修正會讓遊戲顯示錯誤的變數格式、缺漏與截斷的字串 | 30+ 處 |
+| 🧩 | 簡中版補齊官方簡中缺少的字串 | 約 4,200 條 |
+
+- 歐克和歐格林的台詞刻意翻得粗獷口語，帝國與鈦星人則保留軍事口吻。
+- **Waaagh!** 保留原文，不再翻成「吼～」。
+- 繁中保留台灣用字（雷射、電漿、砲）；簡中改用大陸慣用詞（激光、等离子、导弹、帝国卫队、太空死灵）。
+
+## 安裝
+
+> [!IMPORTANT]
+> 覆蓋前請先**備份原檔**，之後想還原比較方便。
+
+1. 從上方按鈕或 [Releases](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest) 下載你要的版本。
+2. 把 zip **直接解壓縮到遊戲安裝資料夾**，選擇覆蓋。<br/>
+   Steam 預設位置：`C:\Program Files (x86)\Steam\steamapps\common\Dawn of War Definitive Edition\`
+3. 進遊戲，在設定中選擇對應的語言。
+
+| 版本 | 下載檔案 | 會覆蓋的檔案 | 遊戲語言 |
+|:--|:--|:--|:--|
+| 繁體中文 | `DoW-DE-Chinese-Fix-zh-TW.zip` | `Engine\Locale\Chinese\Engine.ucs` | 繁體中文 |
+| 簡體中文 | `DoW-DE-Chinese-Fix-zh-CN.zip` | `Engine\Locale\SChinese\Engine.ucs` | 简体中文 |
+
+<details>
+<summary><b>可選：放大繁體中文字型</b></summary>
+
+<br/>
+
+[![可選 繁中字型放大](https://img.shields.io/badge/%E5%8F%AF%E9%81%B8-%E7%B9%81%E4%B8%AD%E5%AD%97%E5%9E%8B%E6%94%BE%E5%A4%A7-555555?style=for-the-badge)](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/Optional-zh-TW-font-size-26.zip)
+
+把繁體中文介面的字型大小統一設為 26，適合高解析度螢幕。只適用繁體中文，安裝方式相同：解壓縮到遊戲安裝資料夾並覆蓋（請先備份 `Engine\Locale\Chinese\data\font` 裡的 `.fnt` 檔）。
+
+</details>
+
+### 還原
+
+把備份的原檔放回去，或在 Steam 對遊戲按右鍵 →「內容」→「已安裝的檔案」→「驗證遊戲檔案的完整性」。
+
+> [!NOTE]
+> 遊戲更新或驗證檔案完整性時，可能會把檔案換回原版翻譯，屆時重新覆蓋一次即可。本修正只改文字檔，不影響存檔與連線對戰。
+
+## 譯名依據
+
+譯名優先採用中文《破曉之戰》玩家社群的常用叫法，其次參考遊戲官方簡體中文版與黑圖書館（Black Library）小說中譯本。
+
+- [《战锤40K：战争黎明之灵魂风暴》常用简称中英文对照表（游民星空）](https://www.gamersky.com/handbook/200903/136099_2.shtml)
+- [【补充信息】翻译对照（哔哩哔哩）](https://www.bilibili.com/opus/667379420388917255)
+
+覺得哪個譯名不順？歡迎到 [Issues](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues) 提出，附上畫面截圖或英文原文會更好處理。
+
+---
+
+## 简体中文说明
+
+<details>
+<summary><b>点开查看</b></summary>
+
+<br/>
+
+非官方的中文翻译修正，适用于 **Warhammer 40,000: Dawn of War – Definitive Edition**。修正原版中文的机翻、错译与漏翻，译名采用中文玩家社群通用叫法；简体版使用大陆习惯用词（激光、等离子、导弹、帝国卫队、太空死灵），并补齐官方简中缺少的约 4,200 条字符串。Waaagh! 保留原文。
+
+**安装**
+
+1. 下载 [`DoW-DE-Chinese-Fix-zh-CN.zip`](https://github.com/remon2208/DoW-DE-Chinese-Fix/releases/latest/download/DoW-DE-Chinese-Fix-zh-CN.zip)。
+2. 先备份 `Engine\Locale\SChinese\Engine.ucs`。
+3. 解压到游戏安装目录并覆盖，游戏语言选择简体中文。
 
 **还原**：放回备份，或在 Steam 中“验证游戏文件的完整性”。
 
-**译名**：优先采用中文《战争黎明》玩家社群常用译名，简体版使用大陆习惯用词（激光、等离子、导弹、帝国卫队、太空死灵等），Waaagh! 保留原文。完整对照见 [GLOSSARY.md](GLOSSARY.md)。
+完整译名对照见 [GLOSSARY.md](GLOSSARY.md)。
+
+</details>
+
+---
+
+<div align="center">
+<sub>
+本專案為玩家自製的非官方翻譯修正，與 Games Workshop、Relic Entertainment 及發行商無關。<br/>
+遊戲文字內容的著作權屬原權利人所有，本修正僅供已擁有正版遊戲的玩家使用。<br/>
+<i>In the grim darkness of the far future, there is only war.</i>
+</sub>
+</div>

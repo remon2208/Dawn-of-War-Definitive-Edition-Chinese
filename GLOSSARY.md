@@ -1,8 +1,20 @@
-# 譯名對照表 / 译名对照表
+<div align="center">
+
+# 譯名對照表
+
+**English ⇄ 繁體中文 ⇄ 简体中文**
+
+[陣營](#陣營) · [星際戰士](#星際戰士) · [混沌星際戰士](#混沌星際戰士) · [歐克](#歐克) · [靈族](#靈族) · [帝國防衛軍](#帝國防衛軍) · [鈦星帝國](#鈦星帝國) · [死靈族](#死靈族) · [戰鬥修女](#戰鬥修女) · [黑暗靈族](#黑暗靈族) · [武器與名詞](#武器與名詞)
+
+</div>
+
+> [!TIP]
+> 這份表列出主要的陣營、單位、建築與武器名稱。遊戲內所有文字都依這份譯名統一。覺得哪個不順，歡迎開 [Issue](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues)。
+
+## 陣營
 
 | English | 繁體中文 | 简体中文 |
-|---|---|---|
-| **陣營 / 阵营** | | |
+|:--|:--|:--|
 | Space Marines | 星際戰士 | 星际战士 |
 | Chaos Space Marines | 混沌星際戰士 | 混沌星际战士 |
 | Orks | 歐克 | 欧克 |
@@ -12,7 +24,13 @@
 | Necrons | 死靈族 | 太空死灵 |
 | Sisters of Battle | 戰鬥修女 | 战斗修女 |
 | Dark Eldar | 黑暗靈族 | 黑暗灵族 |
-| **星際戰士** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 星際戰士
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Force Commander | 戰區指揮官 | 战区指挥官 |
 | Librarian | 智庫館長 | 智库馆长 |
 | Chaplain | 牧師 | 牧师 |
@@ -32,7 +50,13 @@
 | Techmarine | 技術軍士 | 技术军士 |
 | Skull Probe | 骷髏探測器 | 骷髅探测器 |
 | Orbital Relay | 軌道中繼站 | 轨道中继站 |
-| **混沌星際戰士** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 混沌星際戰士
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Chaos Lord | 混沌領主 | 混沌领主 |
 | Chaos Sorcerer | 混沌巫師 | 混沌巫师 |
 | Cultist Squad | 邪教徒部隊 | 邪教徒部队 |
@@ -48,7 +72,13 @@
 | Aspiring Champion | 野心勇士 | 野心勇士 |
 | Horror Squad | 懼妖部隊 | 惧妖部队 |
 | Chaos Undivided | 混沌無分 | 混沌无分 |
-| **歐克** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 歐克
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Warboss | 戰爭頭目 | 战争头目 |
 | Big Mek | 大技霸 | 大技霸 |
 | Mad Dok | 瘋醫 | 疯医 |
@@ -66,7 +96,13 @@
 | Looted Tank | 繳獲坦克 | 缴获坦克 |
 | Squiggoth | 史古革巨獸 | 史古革巨兽 |
 | Waaagh! Banner | 「Waaagh!」戰旗 | “Waaagh!”战旗 |
-| **靈族** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 靈族
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Farseer | 先知 | 先知 |
 | Warlock | 術士 | 术士 |
 | Seer Council | 先知議會 | 先知议会 |
@@ -86,7 +122,13 @@
 | Harlequin | 丑角 | 丑角 |
 | Webway Gate | 網道之門 | 网道之门 |
 | Aspect Portal | 相位傳送門 | 相位传送门 |
-| **帝國防衛軍** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 帝國防衛軍
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Commissar | 政委 | 政委 |
 | Priest | 國教牧師 | 国教牧师 |
 | Psyker | 靈能者 | 灵能者 |
@@ -103,7 +145,13 @@
 | Baneblade | 毒刃坦克 | 毒刃坦克 |
 | Sanctioned Psyker | 授權靈能者 | 授权灵能者 |
 | Valkyrie | 女武神級運輸機 | 女武神级运输机 |
-| **鈦星帝國** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 鈦星帝國
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Ethereal | 乙太導師 | 以太导师 |
 | Tau Commander | 鈦司令官 | 钛司令官 |
 | Fire Warrior Team | 火戰士小隊 | 火战士小队 |
@@ -124,7 +172,13 @@
 | Shield Drone | 護盾無人機 | 护盾无人机 |
 | Marker Drone | 標記無人機 | 标记无人机 |
 | Drone Harbinger | 先驅無人機 | 先驱无人机 |
-| **太空死靈** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 死靈族
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Necron Lord | 死靈領主 | 死灵领主 |
 | Necron Warriors | 死靈戰士 | 死灵战士 |
 | Flayed Ones | 剝皮者 | 剥皮者 |
@@ -137,7 +191,13 @@
 | Restored Monolith | 復原的浮石巨塔 | 复原的浮石巨塔 |
 | Nightbringer | 致夜者 | 致夜者 |
 | Essence of the Deceiver | 欺詐者 | 欺诈者 |
-| **戰鬥修女** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 戰鬥修女
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Canoness | 大修女 | 大修女 |
 | Confessor | 告解者 | 告解者 |
 | Missionary | 傳教士 | 传教士 |
@@ -150,7 +210,13 @@
 | Exorcist | 驅魔者裝甲車 | 驱魔者装甲车 |
 | Living Saint | 活聖人 | 活圣人 |
 | Inquisitor Lord | 審判官領主 | 审判官领主 |
-| **黑暗靈族** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 黑暗靈族
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Archon | 執政官 | 执政官 |
 | Haemonculus | 血伶人 | 血伶人 |
 | Warrior Squad | 戰士小隊 | 战士小队 |
@@ -165,7 +231,13 @@
 | Talos | 塔洛斯 | 塔洛斯 |
 | Dais of Destruction | 毀滅高台 | 毁灭高台 |
 | Warp Beast | 亞空間野獸 | 亚空间野兽 |
-| **武器 / 名詞** | | |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
+
+## 武器與名詞
+
+| English | 繁體中文 | 简体中文 |
+|:--|:--|:--|
 | Storm Bolter | 風暴爆彈槍 | 风暴爆弹枪 |
 | Heavy Bolter | 重型爆彈槍 | 重型爆弹枪 |
 | Assault Cannon | 突擊砲 | 突击炮 |
@@ -182,3 +254,5 @@
 | Machine Spirit | 機魂 | 机魂 |
 | Wraithbone Armor | 魂骨盔甲 | 魂骨盔甲 |
 | Blessing of the Omnissiah | 萬機神的祝福 | 万机神的祝福 |
+
+<div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
