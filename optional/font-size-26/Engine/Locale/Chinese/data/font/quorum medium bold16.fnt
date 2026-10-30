@@ -1,0 +1,21 @@
+font = 
+{
+	type 		= "FreeType2";
+	name 		= "Gulim";
+	file		= "NotoSansTC-Bold.ttf";
+	bold		= true;
+
+	sizeDefault 	= 26;
+	size640		= 26;	
+	size800		= 26;	
+	size1024	= 26;	
+	size1280 	= 26;
+	size1600 	= 26;
+	size1920 	= 26;
+	size2160 	= 26;
+	size2560 	= 26;
+	size3840 	= 26;
+
+	spaceChar	= " ";
+	missingChar	= "?";
+}
