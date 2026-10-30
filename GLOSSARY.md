@@ -9,7 +9,7 @@
 </div>
 
 > [!TIP]
-> 這份表列出主要的陣營、單位、建築與武器名稱。遊戲內所有文字都依這份譯名統一。覺得哪個不順，歡迎開 [Issue](https://github.com/remon2208/DoW-DE-Chinese-Fix/issues)。
+> 這份表列出主要的陣營、單位、建築與武器名稱。遊戲內所有文字都依這份譯名統一。覺得哪個不順，歡迎開 [Issue](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/issues)。
 
 ## 陣營
 
