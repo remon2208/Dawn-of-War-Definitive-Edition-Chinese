@@ -181,7 +181,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Dawn of War Definitive Edition\Eng
 - [《战锤40K：战争黎明之灵魂风暴》常用简称中英文对照表（游民星空）](https://www.gamersky.com/handbook/200903/136099_2.shtml)
 - [【补充信息】翻译对照（哔哩哔哩）](https://www.bilibili.com/opus/667379420388917255)
 
-**致謝**：「艾達靈族」「火族戰士」「土族」「上上善道」等譯名，以及載入畫面帝國箴言的譯法，參考了巴哈姆特 xbox9999 製作的[《戰鎚破曉之戰一代決定版，中文字型與翻譯修正 mod》](https://forum.gamer.com.tw/C.php?bsn=7506&snA=11221)（CC BY-NC 授權），在此致謝。
+**致謝**：載入畫面帝國箴言的譯法，參考了巴哈姆特 xbox9999 製作的[《戰鎚破曉之戰一代決定版，中文字型與翻譯修正 mod》](https://forum.gamer.com.tw/C.php?bsn=7506&snA=11221)（CC BY-NC 授權），在此致謝。
 
 覺得哪個譯名不順？歡迎到 [Issues](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/issues) 提出，附上畫面截圖或英文原文會更好處理。
 
