@@ -257,6 +257,15 @@
 | Relic | 聖物 | 圣物 |
 | Exterminatus | 滅絕令 | 灭绝令 |
 | Codex Astartes | 阿斯塔特聖典 | 阿斯塔特圣典 |
+| Wargear | 戰爭裝備 | 战争装备 |
+| Requisition | 軍備 | 军备 |
+| Heavy Infantry | 重裝步兵 | 重装步兵 |
+| Vehicle | 載具 | 载具 |
+| Jump Pack / Jetpack | 噴射背包 | 喷射背包 |
+| Squad Cap / Support Cap | 部隊上限／支援上限 | 部队上限／支援上限 |
+| Holy Icon | 神聖聖像 | 神圣圣像 |
+| Reclusiarch | 首席牧師 | 首席牧师 |
+| The Greater Good | 更大的良善 | 更大的良善 |
 | Wraithbone Armor | 魂骨盔甲 | 魂骨盔甲 |
 | Blessing of the Omnissiah | 萬機神的祝福 | 万机神的祝福 |
 
