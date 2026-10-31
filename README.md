@@ -14,9 +14,9 @@
 
 修正原版中文的機器翻譯、錯譯與漏翻，<br/>譯名統一採用中文玩家社群的通用叫法，讓戰場重新有沉浸感。
 
-[![下載繁體中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BC%89-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/DoW-DE-Chinese-Fix-zh-TW.zip)
+[![下載繁體中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BC%89-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/Dawn-of-War-Definitive-Edition-Chinese-zh-TW.zip)
 &nbsp;
-[![下载简体中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88-b8860b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/DoW-DE-Chinese-Fix-zh-CN.zip)
+[![下载简体中文版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88-b8860b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/Dawn-of-War-Definitive-Edition-Chinese-zh-CN.zip)
 
 [修正前後對照](#修正前後對照) · [安裝](#安裝) · [調整文字大小](#調整文字大小) · [譯名對照表](GLOSSARY.md) · [简体中文说明](#简体中文说明) · [回報問題](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/issues)
 
@@ -68,8 +68,10 @@
 |:--:|:--|--:|
 | 🎙️ | 重譯機器翻譯的單位語音字幕 | 約 1,560 句 |
 | 🔤 | 補翻原本仍是英文的字串（語音、音效說明、任務對話） | 約 1,000 句 |
+| 📜 | 逐句校對戰役對話、任務說明、戰役結局與其餘單位語音（暗黑聖戰、靈魂風暴） | 約 2,200 句 |
 | 🏷️ | 單位、建築、武器名稱改用社群通用譯名 | 3,000+ 處 |
 | 🐛 | 修正會讓遊戲顯示錯誤的變數格式、缺漏與截斷的字串 | 30+ 處 |
+| ✏️ | 統一全文標點（半形驚嘆號、問號改全形，刪除多餘空格與重複字） | 約 950 處 |
 | 🔠 | 繁中介面字型大小統一（預設 25，可自行調整） | 13 個字型 |
 | 🧩 | 簡中版補齊官方簡中缺少的字串 | 約 4,200 條 |
 
@@ -96,8 +98,8 @@
 
 | 版本 | 下載檔案 | 會覆蓋的檔案 | 遊戲語言 |
 |:--|:--|:--|:--|
-| 繁體中文 | `DoW-DE-Chinese-Fix-zh-TW.zip` | `Engine\Locale\Chinese\Engine.ucs`<br/>`Engine\Locale\Chinese\data\font\*.fnt`（13 個字型設定） | 繁體中文 |
-| 簡體中文 | `DoW-DE-Chinese-Fix-zh-CN.zip` | `Engine\Locale\SChinese\Engine.ucs` | 简体中文 |
+| 繁體中文 | `Dawn-of-War-Definitive-Edition-Chinese-zh-TW.zip` | `Engine\Locale\Chinese\Engine.ucs`<br/>`Engine\Locale\Chinese\data\font\*.fnt`（13 個字型設定） | 繁體中文 |
+| 簡體中文 | `Dawn-of-War-Definitive-Edition-Chinese-zh-CN.zip` | `Engine\Locale\SChinese\Engine.ucs` | 简体中文 |
 
 ### 還原
 
@@ -191,7 +193,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Dawn of War Definitive Edition\Eng
 
 **安装**
 
-1. 下载 [`DoW-DE-Chinese-Fix-zh-CN.zip`](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/DoW-DE-Chinese-Fix-zh-CN.zip)。
+1. 下载 [`Dawn-of-War-Definitive-Edition-Chinese-zh-CN.zip`](https://github.com/remon2208/Dawn-of-War-Definitive-Edition-Chinese/releases/latest/download/Dawn-of-War-Definitive-Edition-Chinese-zh-CN.zip)。
 2. 先备份 `Engine\Locale\SChinese\Engine.ucs`。
 3. 解压到游戏安装目录并覆盖，游戏语言选择简体中文。
 
