@@ -4,7 +4,7 @@
 
 **English ⇄ 繁體中文 ⇄ 简体中文**
 
-[陣營](#陣營) · [星際戰士](#星際戰士) · [混沌星際戰士](#混沌星際戰士) · [歐克](#歐克) · [靈族](#靈族) · [帝國防衛軍](#帝國防衛軍) · [鈦星帝國](#鈦星帝國) · [死靈族](#死靈族) · [戰鬥修女](#戰鬥修女) · [黑暗靈族](#黑暗靈族) · [武器與名詞](#武器與名詞)
+[陣營](#陣營) · [星際戰士](#星際戰士) · [混沌星際戰士](#混沌星際戰士) · [歐克](#歐克) · [艾達靈族](#艾達靈族) · [帝國防衛軍](#帝國防衛軍) · [鈦星帝國](#鈦星帝國) · [死靈族](#死靈族) · [戰鬥修女](#戰鬥修女) · [黑暗靈族](#黑暗靈族) · [武器與名詞](#武器與名詞)
 
 </div>
 
@@ -18,7 +18,7 @@
 | Space Marines | 星際戰士 | 星际战士 |
 | Chaos Space Marines | 混沌星際戰士 | 混沌星际战士 |
 | Orks | 歐克 | 欧克 |
-| Eldar | 靈族 | 灵族 |
+| Eldar | 艾達靈族 | 艾达灵族 |
 | Imperial Guard | 帝國防衛軍 | 帝国卫队 |
 | Tau Empire | 鈦星帝國 | 钛帝国 |
 | Necrons | 死靈族 | 太空死灵 |
@@ -99,7 +99,7 @@
 
 <div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
 
-## 靈族
+## 艾達靈族
 
 | English | 繁體中文 | 简体中文 |
 |:--|:--|:--|
@@ -154,7 +154,8 @@
 |:--|:--|:--|
 | Ethereal | 乙太導師 | 以太导师 |
 | Tau Commander | 鈦司令官 | 钛司令官 |
-| Fire Warrior Team | 火戰士小隊 | 火战士小队 |
+| Fire Warrior Team | 火族戰士小隊 | 火族战士小队 |
+| Fire Caste / Earth Caste / Water Caste / Air Caste | 火族／土族／水族／空族 | 火族／土族／水族／空族 |
 | Pathfinder Team | 探路者隊 | 探路者队 |
 | XV15 Stealth Team | XV15隱形戰鬥服小隊 | XV15隐形战斗服小队 |
 | XV8 Crisis Battlesuit | XV8危機戰鬥服 | XV8危机战斗服 |
@@ -265,7 +266,7 @@
 | Squad Cap / Support Cap | 部隊上限／支援上限 | 部队上限／支援上限 |
 | Holy Icon | 神聖聖像 | 神圣圣像 |
 | Reclusiarch | 首席牧師 | 首席牧师 |
-| The Greater Good | 更大的良善 | 更大的良善 |
+| The Greater Good | 上上善道 | 上上善道 |
 | Wraithbone Armor | 魂骨盔甲 | 魂骨盔甲 |
 | Blessing of the Omnissiah | 萬機神的祝福 | 万机神的祝福 |
 
