@@ -252,6 +252,11 @@
 | Shuriken Cannon | 手裡劍砲 | 手里剑炮 |
 | Earthshaker Round | 撼地砲 | 撼地炮 |
 | Machine Spirit | 機魂 | 机魂 |
+| Warp | 亞空間 | 亚空间 |
+| Strategic Point | 戰略位置 | 战略位置 |
+| Relic | 聖物 | 圣物 |
+| Exterminatus | 滅絕令 | 灭绝令 |
+| Codex Astartes | 阿斯塔特聖典 | 阿斯塔特圣典 |
 | Wraithbone Armor | 魂骨盔甲 | 魂骨盔甲 |
 | Blessing of the Omnissiah | 萬機神的祝福 | 万机神的祝福 |
 
