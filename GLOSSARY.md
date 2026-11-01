@@ -36,6 +36,8 @@
 | Chaplain | 牧師 | 牧师 |
 | Apothecary | 藥劑師 | 药剂师 |
 | Servitor | 機僕 | 机仆 |
+| Alien / Xenos | 異形 | 异形 |
+| Mutant | 異種 | 异种 |
 | Scout Marine Squad | 星際戰士偵察小隊 | 星际战士侦察小队 |
 | Tactical Squad | 戰術小隊 | 战术小队 |
 | Assault Marine Squad | 星際戰士突擊小隊 | 星际战士突击小队 |
@@ -276,6 +278,8 @@
 | Aspect Warriors | 相位戰士 | 相位战士 |
 | Waystone | 魂石 | 魂石 |
 | Servitor | 機僕 | 机仆 |
+| Alien / Xenos | 異形 | 异形 |
+| Mutant | 異種 | 异种 |
 | Planetary Requisition | 行星軍備 | 行星军备 |
 | Honor Guard | 榮譽護衛 | 荣誉护卫 |
 | Auto-Resolve | 自動結算 | 自动结算 |
