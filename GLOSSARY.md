@@ -269,5 +269,16 @@
 | The Greater Good | 上上善道 | 上上善道 |
 | Wraithbone Armor | 魂骨盔甲 | 魂骨盔甲 |
 | Blessing of the Omnissiah | 萬機神的祝福 | 万机神的祝福 |
+| Primarch | 原體 | 原体 |
+| Warmaster | 戰帥 | 战帅 |
+| Horus Heresy | 荷魯斯之亂 | 荷鲁斯之乱 |
+| Dark Apostle | 黑暗使徒 | 黑暗使徒 |
+| Aspect Warriors | 相位戰士 | 相位战士 |
+| Waystone | 魂石 | 魂石 |
+| Servitor | 機僕 | 机仆 |
+| Planetary Requisition | 行星軍備 | 行星军备 |
+| Honor Guard | 榮譽護衛 | 荣誉护卫 |
+| Auto-Resolve | 自動結算 | 自动结算 |
+| Space Port | 空港 | 空港 |
 
 <div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
