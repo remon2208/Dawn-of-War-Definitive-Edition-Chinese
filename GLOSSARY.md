@@ -4,7 +4,7 @@
 
 **English ⇄ 繁體中文 ⇄ 简体中文**
 
-[陣營](#陣營) · [星際戰士](#星際戰士) · [混沌星際戰士](#混沌星際戰士) · [歐克](#歐克) · [艾達靈族](#艾達靈族) · [帝國防衛軍](#帝國防衛軍) · [鈦星帝國](#鈦星帝國) · [死靈族](#死靈族) · [戰鬥修女](#戰鬥修女) · [黑暗靈族](#黑暗靈族) · [武器與名詞](#武器與名詞)
+[陣營](#陣營) · [星際戰士](#星際戰士) · [混沌星際戰士](#混沌星際戰士) · [歐克獸人](#歐克獸人) · [艾達靈族](#艾達靈族) · [帝國防衛軍](#帝國防衛軍) · [鈦星帝國](#鈦星帝國) · [太空死靈](#太空死靈) · [戰鬥修女](#戰鬥修女) · [黑暗靈族](#黑暗靈族) · [武器與名詞](#武器與名詞)
 
 </div>
 
@@ -17,11 +17,11 @@
 |:--|:--|:--|
 | Space Marines | 星際戰士 | 星际战士 |
 | Chaos Space Marines | 混沌星際戰士 | 混沌星际战士 |
-| Orks | 歐克 | 欧克 |
+| Orks | 歐克獸人 | 欧克兽人 |
 | Eldar | 艾達靈族 | 艾达灵族 |
 | Imperial Guard | 帝國防衛軍 | 帝国卫队 |
 | Tau Empire | 鈦星帝國 | 钛帝国 |
-| Necrons | 死靈族 | 太空死灵 |
+| Necrons | 太空死靈 | 太空死灵 |
 | Sisters of Battle | 戰鬥修女 | 战斗修女 |
 | Dark Eldar | 黑暗靈族 | 黑暗灵族 |
 
@@ -45,6 +45,7 @@
 | Land Speeder | 蘭德速攻艇 | 兰德速攻艇 |
 | Rhino Transport | 犀牛運兵車 | 犀牛运兵车 |
 | Predator | 掠食者坦克 | 掠食者坦克 |
+| Predator Annihilator | 掠食者殲滅者坦克 | 掠食者歼灭者坦克 |
 | Whirlwind | 旋風坦克 | 旋风坦克 |
 | Land Raider | 蘭德掠襲者 | 兰德掠袭者 |
 | Techmarine | 技術軍士 | 技术军士 |
@@ -75,7 +76,7 @@
 
 <div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
 
-## 歐克
+## 歐克獸人
 
 | English | 繁體中文 | 简体中文 |
 |:--|:--|:--|
@@ -95,7 +96,7 @@
 | Wartrak | 戰軌車 | 战轨车 |
 | Looted Tank | 繳獲坦克 | 缴获坦克 |
 | Squiggoth | 史古革巨獸 | 史古革巨兽 |
-| Waaagh! Banner | 「Waaagh!」戰旗 | “Waaagh!”战旗 |
+| Waaagh! Banner | Waaagh! 旗 | Waaagh! 旗 |
 
 <div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
 
@@ -176,7 +177,7 @@
 
 <div align="right"><a href="#譯名對照表">↑ 回到頂端</a></div>
 
-## 死靈族
+## 太空死靈
 
 | English | 繁體中文 | 简体中文 |
 |:--|:--|:--|
@@ -253,6 +254,7 @@
 | Shuriken Cannon | 手裡劍砲 | 手里剑炮 |
 | Earthshaker Round | 撼地砲 | 撼地炮 |
 | Machine Spirit | 機魂 | 机魂 |
+| Curse of the Machine Spirits | 機魂詛咒 | 机魂诅咒 |
 | Warp | 亞空間 | 亚空间 |
 | Strategic Point | 戰略位置 | 战略位置 |
 | Relic | 聖物 | 圣物 |
@@ -262,7 +264,8 @@
 | Requisition | 軍備 | 军备 |
 | Heavy Infantry | 重裝步兵 | 重装步兵 |
 | Vehicle | 載具 | 载具 |
-| Jump Pack / Jetpack | 噴射背包 | 喷射背包 |
+| Jump Pack | 跳躍背包 | 跳跃背包 |
+| Jetpack | 噴射背包 | 喷射背包 |
 | Squad Cap / Support Cap | 部隊上限／支援上限 | 部队上限／支援上限 |
 | Holy Icon | 神聖聖像 | 神圣圣像 |
 | Reclusiarch | 首席牧師 | 首席牧师 |
@@ -279,10 +282,14 @@
 | Alien / Xenos | 異形 | 异形 |
 | Mutant | 異種 | 异种 |
 | Heretic / Heresy（泛指） | 異端 | 异端 |
+| Furious Charge | 狂怒衝鋒 | 狂怒冲锋 |
+| Tartarus | 深淵星 | 深渊星 |
+| Battle-Brother | 戰鬥弟兄 | 战斗弟兄 |
+| Order / Disorder（冰襲戰役） | 秩序／混亂 | 秩序／混乱 |
 | Adeptus Mechanicus | 機械神教 | 机械神教 |
 | Order of the Sacred Rose | 神聖玫瑰修會 | 神圣玫瑰修会 |
 | Planetary Requisition | 行星軍備 | 行星军备 |
-| Honor Guard | 榮譽護衛 | 荣誉护卫 |
+| Honor Guard | 榮譽衛隊 | 荣誉卫队 |
 | Auto-Resolve | 自動結算 | 自动结算 |
 | Space Port | 空港 | 空港 |
 
