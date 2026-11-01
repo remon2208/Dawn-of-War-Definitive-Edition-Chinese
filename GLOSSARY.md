@@ -36,8 +36,6 @@
 | Chaplain | 牧師 | 牧师 |
 | Apothecary | 藥劑師 | 药剂师 |
 | Servitor | 機僕 | 机仆 |
-| Alien / Xenos | 異形 | 异形 |
-| Mutant | 異種 | 异种 |
 | Scout Marine Squad | 星際戰士偵察小隊 | 星际战士侦察小队 |
 | Tactical Squad | 戰術小隊 | 战术小队 |
 | Assault Marine Squad | 星際戰士突擊小隊 | 星际战士突击小队 |
@@ -62,7 +60,7 @@
 | Chaos Lord | 混沌領主 | 混沌领主 |
 | Chaos Sorcerer | 混沌巫師 | 混沌巫师 |
 | Cultist Squad | 邪教徒部隊 | 邪教徒部队 |
-| Heretic | 異教徒 | 异教徒 |
+| Heretic（單位） | 異教徒 | 异教徒 |
 | Raptor Squad | 猛禽戰士部隊 | 猛禽战士部队 |
 | Possessed Squad | 附魔部隊 | 附魔部队 |
 | Khorne Berzerkers | 恐虐狂戰士 | 恐虐狂战士 |
@@ -280,6 +278,9 @@
 | Servitor | 機僕 | 机仆 |
 | Alien / Xenos | 異形 | 异形 |
 | Mutant | 異種 | 异种 |
+| Heretic / Heresy（泛指） | 異端 | 异端 |
+| Adeptus Mechanicus | 機械神教 | 机械神教 |
+| Order of the Sacred Rose | 神聖玫瑰修會 | 神圣玫瑰修会 |
 | Planetary Requisition | 行星軍備 | 行星军备 |
 | Honor Guard | 榮譽護衛 | 荣誉护卫 |
 | Auto-Resolve | 自動結算 | 自动结算 |
